@@ -12,15 +12,23 @@ I'm a passionate **Full-Stack Developer** with extensive experience in the techn
 ## 🛠️ Technical Skills
 
 - **Front-End:** 
-  - Html5 🌐 | Css3 🎨 | TailwindCss 🌟 | React ⚛️
+  - Html5 🌐 (⭐⭐⭐⭐)
+  - Css3 🎨 (⭐⭐⭐⭐)
+  - TailwindCss 🌟 (⭐⭐⭐⭐)
+  - React ⚛️ (⭐⭐⭐⭐)
 - **Back-End:** 
-  - Node.js 🚀 | Express 🛤️
+  - Node.js 🚀 (⭐⭐⭐⭐)
+  - Express 🛤️ (⭐⭐⭐⭐)
 - **Database:** 
-  - MongoDB 📊
+  - MongoDB 📊 (⭐⭐⭐⭐)
 - **Tools:** 
-  - Git 📜 | GitHub 🐱 | Yarn 🧶
+  - Git 📜 (⭐⭐⭐⭐)
+  - GitHub 🐱 (⭐⭐⭐⭐)
+  - Yarn 🧶 (⭐⭐⭐⭐)
+  - Postman 📮 (⭐⭐⭐⭐)
 - **Methodologies:** 
-  - Agile 🏁 | Scrum 🔄
+  - Agile 🏁 (⭐⭐⭐⭐)
+  - Scrum 🔄 (⭐⭐⭐⭐)
 
 ## 🚀 Key Attributes
 
@@ -39,3 +47,14 @@ I am known for being:
 
 
 I look forward to collaborating with you on exciting projects! Whether you're an HR professional or another developer, feel free to reach out to me for job opportunities or to share ideas and suggestions.
+
+```javascript
+function startCoding() {
+    const enthusiasmLevel = 5; // Out of 10
+    const creativityLevel = 5; // Out of 10
+    const determinationLevel = 5; // Out of 10
+
+    console.log(`Let's start coding with ${enthusiasmLevel} enthusiasm, ${creativityLevel} creativity, and ${determinationLevel} determination! 💻`);
+}
+
+startCoding();
