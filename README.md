@@ -7,7 +7,7 @@
 
 # Hello, I'm Francesco IM Gentile! 👋
 
-I'm a passionate **Full-Stack Developer** with extensive experience in the technology ecosystem. I'm here to share my love for coding and creative solutions with the world.
+I'm a passionate **Full-Stack Developer** an i'm here to share my love for coding and creative solutions with the world.
 
 ## 🛠️ Technical Skills
 
