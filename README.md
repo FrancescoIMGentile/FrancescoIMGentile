@@ -5,7 +5,7 @@
 
 ![GitHub](https://github.com/FrancescoIMGentile/FrancescoIMGentile/assets/120559193/048036de-bdf1-4a25-bb28-1d0d322b4bcf)
 
-# Hello, I'm Francesco IM Gentile! 👋
+# Tech Enthusiast at Work - Francesco IM Gentile's Portfolio 💼👨‍💻 👋
 
 I'm a passionate **Full-Stack Developer** an i'm here to share my love for coding and creative solutions with the world.
 
